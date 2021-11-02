@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 This was made mostly as a joke to say "yes I can do that".
 
